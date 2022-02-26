@@ -1,0 +1,9 @@
+{
+  "name": "BetterPMManager",
+  "creator": "loppers",
+  "description": "Test",
+  "version":"1.0.0",
+  "requires": ["Vigilance","FileUtilities"],
+  "entry": "index.js"//,
+  //"helpMessage": "&8Welcome to the AOTEBridgeFormat module. To get started type the command &d/bridge settings&8. After you are in the menu, select the color scheme of your choosing."
+}
