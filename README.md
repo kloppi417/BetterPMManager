@@ -1,0 +1,2 @@
+# BetterPMManager
+ChatTriggers module
